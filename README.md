@@ -1,2 +1,25 @@
-# deepfake-detector
-Deepfake Detector is a machine learning-based project designed to identify and classify deepfake videos or images. By leveraging facial landmarks and media processing techniques, the system aims to detect tampered visual content and raise awareness about manipulated media.
+
+# 🕵️‍♂️ Deepfake Detector
+
+A machine learning and computer vision-based project designed to detect deepfakes in videos or images. The system analyzes facial landmarks and visual inconsistencies to determine if a face has been digitally manipulated.
+
+## 🔍 Features
+
+- Detects deepfake images and videos
+- Uses facial landmarks and computer vision techniques
+- Real-time frame analysis (if video input is supported)
+- Alerts if tampering is suspected
+- Easy to integrate or extend for larger systems
+
+## 🚀 Technologies Used
+
+- Python
+- OpenCV
+- dlib / MediaPipe (for face detection/landmarks)
+- NumPy
+- Scikit-learn / TensorFlow / PyTorch (depending on implementation)
+- Flask (if deployed as a web app)
+
+## 🗂️ Project Structure
+
+
