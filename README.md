@@ -20,6 +20,5 @@ A machine learning and computer vision-based project designed to detect deepfake
 - Scikit-learn / TensorFlow / PyTorch (depending on implementation)
 - Flask (if deployed as a web app)
 
-## 🗂️ Project Structure
 
 
